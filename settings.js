@@ -1,14 +1,14 @@
-//Created by Danny 
+//Created by Wholl 
 //Dont clone cause if i catch you i will flag you immediately 
-//contact me wa.me/255697608274
+//contact me wa.me/241062880842
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "255697608274"
-global.ownername = "𝒟𝒶𝓃𝓃𝓎"
-global.ownernumber = '255697608274'  //owner number 2
+global.ownernomer = "241062880842"
+global.ownername = "WHOLL"
+global.ownernumber = '241062880842'  //owner number 2
 //put your phone number above
 //let the owner as Danny or you can just put your name
 
@@ -27,10 +27,10 @@ global.autoswview = true //auto view status/story
 global.antilinkMode = true; // Default: disabled
 global.autostatusReact = true; // Default: disabled
 global.reactEmoji = '😂'; // Default reaction emoji
-//Thank you for using 𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏
+//Thank you for using 𝐒𝚮𝚰𝚪𝚯-𝚯𝚴𝚰
 //suppoet us by following our official channel
 //https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r
-//𝓬𝓻𝓮𝓪𝓽𝓮𝓭 𝓫𝔂 𝒟𝒶𝓃𝓃𝓎
+//create WHOLL
 
 
 
